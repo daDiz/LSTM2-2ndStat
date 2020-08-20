@@ -1,0 +1,24 @@
+step: 100
+LC js: 0.732
+LC+LK js: 0.756
+Hawkes-Exp js: 0.290
+RNNPP js: 0.655
+--------------------------
+step: 500
+LC js: 0.683
+LC+LK js: 0.614
+Hawkes-Exp js: 0.258
+RNNPP js: 0.316
+--------------------------
+step: 1000
+LC js: 0.732
+LC+LK js: 0.753
+Hawkes-Exp js: 0.371
+RNNPP js: 0.428
+--------------------------
+step: 2000
+LC js: 0.765
+LC+LK js: 0.770
+Hawkes-Exp js: 0.357
+RNNPP js: 0.712
+--------------------------
